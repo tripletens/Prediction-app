@@ -1,0 +1,131 @@
+body{
+    background:white;
+    color:black;
+}
+a{
+    color:#fff;
+    text-decoration: none;
+}
+a:hover{
+    color:black;
+}
+.navbar{
+    background: #920000;
+    height:auto;
+    padding:10px;
+    /* color:black; */
+}
+.topheader{
+    text-align: center;
+    width:80%;
+    height:50px;
+    margin:0 auto;
+    margin-top:-30px;
+    color:#fff;
+    padding:10px;
+    font-size:25px;
+    /* border-radius: 0 0 25px 25px; */
+    box-shadow: 10px black; 
+    background-color:black;
+}
+.top-banner{
+    background-image:url("../images/banner.jpg");
+    height:600px;
+    width: 90%;
+    margin:0 auto;
+    margin-top:5%;
+    background-size: 100% 100%;
+}
+/* h1{
+    text-align:center;
+    /* margin:0 auto; */
+/* }  */
+.content {
+    padding: 7%;
+    margin: 0 auto;
+    text-align: left;
+}
+.join-content{
+    padding:5%;
+}
+.join-content , .join-heading{
+    text-align : center;
+    margin:0 auto;
+    margin-top:100px;
+    color:#920000;
+    
+}
+.p-join{
+    text-align: center;
+    font-size: x-large;
+    color:#920000;
+}
+/* #D29595 */
+.games-content{
+    background: #AE4141;
+}
+.games-heading{
+    text-align : center;
+    margin:0 auto;
+    margin-top:100px;
+    color:#fff;
+}
+.game-details{
+    background: #920000;
+    color:#fff;
+    text-align: center;
+    height:auto;
+    margin-top:-55px;
+    padding:10px;
+}
+.item-content{
+   
+    width: auto;
+    padding: 5%;
+    margin-left: 3%;
+    text-align: left;
+}
+img{
+    /* width:100%;
+    height:auto; */
+}
+.footer{
+    color:#fff;
+}
+.footer-header {
+    font-size: x-large;
+    font-weight:bolder;
+    color:#920000;
+}
+.footer-inner-content{
+    /* border-right:5px solid #fff; */
+}
+.footer-text{
+    font-size:large;
+}
+.footer-credits{
+    text-align:center;
+    color:#920000;
+}
+.gototop{
+    height:50px;
+    width:50px;
+    background:#920000;
+    /* color:#fff; */
+    padding:10px;
+    float:right;
+}
+.about-p{
+    margin:0 auto;
+    text-align:block;
+    color:#920000;
+    padding:50px;
+    font-size:large;
+}
+
+.about-img{
+   
+   height: 300px;
+   background-size: 50% 50%;
+   margin-top:55px;
+}
